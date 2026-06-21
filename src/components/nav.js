@@ -30,6 +30,7 @@ const NavList = () => {
             <Screw bot left><Indent type="type3" /></Screw>
             <NavListItemRow as={Link} to="/" >Home</NavListItemRow>
             <NavListItemRow as={Link} to="/stealth" >Stealth</NavListItemRow>
+            <NavListItemRow as={Link} to="/finder" >Finder</NavListItemRow>
             <NavListItemRow as={Link} to="/loud" >Loud</NavListItemRow>
             <NavListItemRow as={Link} to="/tutorial" >Help</NavListItemRow>
             <Screw bot right><Indent /></Screw>

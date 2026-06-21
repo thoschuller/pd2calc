@@ -7,6 +7,7 @@ import { Switch, Route, HashRouter } from "react-router-dom";
 import Home from "./pages/home";
 import Stealth from "./pages/stealth";
 import Loud from "./pages/loud";
+import Finder from "./pages/finder";
 import Tutorial from "./pages/tutorial";
 
 import Nav from "./components/nav";
@@ -151,6 +152,7 @@ class App extends Component {
 							<Route exact path="/" component={Home} />
 							<Route exact path="/stealth" component={Stealth} />
 							<Route exact path="/loud" component={Loud} />
+							<Route exact path="/finder" component={Finder} />
 							<Route exact path="/tutorial" component={Tutorial} />
 							<Route exact path="/cookoff" component={CookOff} />
 							<Route exact path="/aftershock" component={Aftershock} />
