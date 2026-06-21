@@ -30,7 +30,7 @@ export const Side = styled.div`
     }
 
     svg {
-        color: ${item => item.paint === "blue" ? "#6FC4FC" : "#F56600" };
+        color: ${item => item.paint === "blue" ? "#6FC4FC" : item.paint === "green" ? "#73D13D" : "#F56600" };
         filter: drop-shadow(0 0 3px black);
     }
 
@@ -41,7 +41,7 @@ export const Side = styled.div`
             filter: grayscale(0);
 
             &>div>* {
-                color: ${item => item.paint === "blue" ? "#6FC4FC" : "#F56600" };
+                color: ${item => item.paint === "blue" ? "#6FC4FC" : item.paint === "green" ? "#73D13D" : "#F56600" };
                 font-size: 70px;
             }
 

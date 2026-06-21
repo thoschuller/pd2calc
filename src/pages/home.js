@@ -3,8 +3,9 @@ import { SideContainer, Side, SideTextBox, SideText} from "../styles/home";
 import { Link } from "react-router-dom";
 import stealthIMG from "../images/stealth.jpg";
 import loudIMG from "../images/loud.jpg";
+import finderIMG from "../images/stealth.jpg";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faArrowLeft, faArrowRight } from '@fortawesome/free-solid-svg-icons'
+import { faArrowLeft, faArrowRight, faSearch } from '@fortawesome/free-solid-svg-icons'
 
 
 
@@ -19,6 +20,13 @@ class Home extends Component {
                     <SideTextBox>
                         <SideText>Stealth</SideText>
                         <FontAwesomeIcon icon={faArrowLeft} />
+                    </SideTextBox>
+                </Side>
+                <Side as={Link} to={"/finder"} paint="green">
+                    <img src={finderIMG} alt="finder" />
+                    <SideTextBox>
+                        <SideText>Finder</SideText>
+                        <FontAwesomeIcon icon={faSearch} />
                     </SideTextBox>
                 </Side>
                 <Side as={Link} to={"/loud"} paint="orange">

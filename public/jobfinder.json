@@ -1,0 +1,3218 @@
+[
+  {
+    "id": "aftershock",
+    "name": "Aftershock",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/aftershock.jpg",
+    "link": "/aftershock",
+    "approach": "loud",
+    "base": 34000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 28000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each safe secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 12
+      }
+    ]
+  },
+  {
+    "id": "alaskandeal",
+    "name": "Alaskan Deal",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/alaskan.jpg",
+    "link": "/alaskandeal",
+    "approach": "loud",
+    "base": 18000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 14000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each money bag secured",
+        "xp": 400,
+        "type": "rS",
+        "max": 4
+      },
+      {
+        "name": "Each weapon bag secured",
+        "xp": 600,
+        "type": "rS",
+        "max": 4
+      }
+    ]
+  },
+  {
+    "id": "art_loud",
+    "name": "Art Gallery",
+    "jc": 20,
+    "img": "/pd2calc/images/maps/both/artgallery.jpg",
+    "link": "/framingframe_day1",
+    "approach": "both",
+    "base": 12500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Security hack completion",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each painting secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "artgallery",
+    "name": "Art Gallery",
+    "jc": 20,
+    "img": "/pd2calc/images/maps/both/artgallery.jpg",
+    "link": "/framingframe_day1",
+    "approach": "both",
+    "base": 6500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each painting secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "bank",
+    "name": "Bank Heist",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/bank.jpg",
+    "link": "/bank",
+    "approach": "both",
+    "base": 12000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 12000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "btm",
+    "name": "Beneath the Mountain",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/beneathmountain.jpg",
+    "link": "/btm",
+    "approach": "loud",
+    "base": 23700,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 19000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each vault with loot opened",
+        "xp": 1000,
+        "type": "rS",
+        "max": 4
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 700,
+        "type": "2",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "bigoild_day1",
+    "name": "Big Oil (day 1)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/bigoil.jpg",
+    "link": "/bigoil_day1",
+    "approach": "both",
+    "base": 16500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 12000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each item picked (intel/keychain)",
+        "xp": 1500,
+        "type": "rS",
+        "max": 3
+      }
+    ]
+  },
+  {
+    "id": "bigoild_day2",
+    "name": "Big Oil (day 2)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/bigoil.jpg",
+    "link": "/bigoil_day2",
+    "approach": "both",
+    "base": 21000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 21000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "birthofsky",
+    "name": "Birth of Sky",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/birthsky.jpg",
+    "link": "/birthofsky",
+    "approach": "loud",
+    "base": 31100,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 31100,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "boilingpoint",
+    "name": "Birth of Sky",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/boiling.jpg",
+    "link": "/birthofsky",
+    "approach": "loud",
+    "base": 46000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 26000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each body scanned",
+        "xp": 5000,
+        "type": "rS",
+        "max": 4
+      }
+    ]
+  },
+  {
+    "id": "blackcat",
+    "name": "Black Cat",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/blackcat.jpg",
+    "link": "/blackcat",
+    "approach": "both",
+    "base": 33000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 31000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Not default entrance",
+        "xp": -1500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Enter the CASINO before SPA (bug?)",
+        "xp": -4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Skipped planting bug",
+        "xp": -4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each money bag secured (vault)",
+        "xp": 500,
+        "type": "rS",
+        "max": 16
+      },
+      {
+        "name": "Each optional bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 7
+      }
+    ]
+  },
+  {
+    "id": "blackcat_loud",
+    "name": "Black Cat",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/blackcat.jpg",
+    "link": "/blackcat",
+    "approach": "both",
+    "base": 54500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 34000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Not default entrance",
+        "xp": -1500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Enter the CASINO before SPA (bug?)",
+        "xp": -500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Vault opened with C4 (just before code and hand were used)",
+        "xp": 14000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Vault opened with C4 (from start)",
+        "xp": -4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Vault opened with C4 (from start + entered casino)",
+        "xp": 1000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each money bag secured (vault)",
+        "xp": 500,
+        "type": "rS",
+        "max": 16
+      },
+      {
+        "name": "Each optional bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 7
+      }
+    ]
+  },
+  {
+    "id": "border",
+    "name": "Border Crossing",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/border.jpg",
+    "link": "/bordercrossing",
+    "approach": "both",
+    "base": 41500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 21000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Bags secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 41
+      }
+    ]
+  },
+  {
+    "id": "border_loud",
+    "name": "Border Crossing",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/border.jpg",
+    "link": "/bordercrossing",
+    "approach": "both",
+    "base": 19000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 19000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "bordercrystals",
+    "name": "Border Crystals",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/bordercrystals.jpg",
+    "link": "/bordercrystals",
+    "approach": "loud",
+    "base": 301000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 1000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 6000,
+        "type": "rS",
+        "max": 50
+      }
+    ]
+  },
+  {
+    "id": "breakfast",
+    "name": "Breakfast in Tijuana",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/breakfast.jpg",
+    "link": "/breakfastintijuana",
+    "approach": "both",
+    "base": 22000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 22000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "breakfast_loud",
+    "name": "Breakfast in Tijuana",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/breakfast.jpg",
+    "link": "/breakfastintijuana",
+    "approach": "both",
+    "base": 26000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 26000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "breakinfeds",
+    "name": "Breakin' Feds",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/stealth/breakinfeds.jpg",
+    "link": "/breakin'feds",
+    "approach": "stealth",
+    "base": 30000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each lure of Garett",
+        "xp": 4000,
+        "type": "rS",
+        "max": 4
+      },
+      {
+        "name": "Each bag secured (with loot)",
+        "xp": 1000,
+        "type": "rS",
+        "max": 8
+      }
+    ]
+  },
+  {
+    "id": "brooklyn1010",
+    "name": "Brooklyn 10-10",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/brooklyn10.jpg",
+    "link": "/brooklyn10-10",
+    "approach": "loud",
+    "base": 30000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 26000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 4
+      }
+    ]
+  },
+  {
+    "id": "brooklynbank",
+    "name": "Brooklyn Bank",
+    "jc": 10,
+    "img": "/pd2calc/images/maps/loud/brooklyn.jpg",
+    "link": "/brooklynbank",
+    "approach": "loud",
+    "base": 25600,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 16000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 400,
+        "type": "rS",
+        "max": 24
+      }
+    ]
+  },
+  {
+    "id": "bulucs",
+    "name": "Buluc's Mansion",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/bulucs.jpg",
+    "link": "/bulucsmansion",
+    "approach": "both",
+    "base": 20000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 20000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Find keycard holder",
+        "xp": 1000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Boat escape",
+        "xp": -1000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "bulucs_loud",
+    "name": "Buluc's Mansion",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/bulucs.jpg",
+    "link": "/bulucsmansion",
+    "approach": "both",
+    "base": 25000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 25000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Bomb instead of hack",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Helicopter escape",
+        "xp": -2000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "carshop",
+    "name": "Carshop",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/stealth/carshop.jpg",
+    "link": "/carshop",
+    "approach": "stealth",
+    "base": 13000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 9000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each car secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 4
+      }
+    ]
+  },
+  {
+    "id": "cookoff",
+    "name": "Cook Off",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/loud/cookoff.jpg",
+    "link": "/cookoff",
+    "approach": "loud",
+    "base": 824000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 24000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each additional bag secured",
+        "xp": 8000,
+        "type": "rS",
+        "max": 100
+      }
+    ]
+  },
+  {
+    "id": "counterfeit",
+    "name": "Counterfeit",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/counterfeit.jpg",
+    "link": "/counterfeit",
+    "approach": "both",
+    "base": 23000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 21000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "C4 in basement",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "counterfeit_loud",
+    "name": "Counterfeit",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/counterfeit.jpg",
+    "link": "/counterfeit",
+    "approach": "both",
+    "base": 773000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 21000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "C4 in basement",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Printed money bags",
+        "xp": 4000,
+        "type": "rS",
+        "max": 150
+      },
+      {
+        "name": "Secured money bags (heli)",
+        "xp": 1000,
+        "type": "rS",
+        "max": 150
+      }
+    ]
+  },
+  {
+    "id": "cursedkillroom",
+    "name": "Cursed Kill Room",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/default.jpg",
+    "link": "/ckr",
+    "approach": "loud",
+    "base": 82000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 80
+      }
+    ]
+  },
+  {
+    "id": "diamondheist",
+    "name": "Diamond Heist",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/diamondheist.jpg",
+    "link": "/diamondheist",
+    "approach": "both",
+    "base": 12200,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 9000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag of diamonds secured",
+        "xp": 400,
+        "type": "rS",
+        "max": 8
+      }
+    ]
+  },
+  {
+    "id": "diamondheist_loud",
+    "name": "Diamond Heist",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/diamondheist.jpg",
+    "link": "/diamondheist",
+    "approach": "both",
+    "base": 21200,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 18000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag of diamonds secured",
+        "xp": 400,
+        "type": "rS",
+        "max": 8
+      }
+    ]
+  },
+  {
+    "id": "diamondstore",
+    "name": "Diamond Store",
+    "jc": 20,
+    "img": "/pd2calc/images/maps/both/diamondstore.jpg",
+    "link": "/diamondstore",
+    "approach": "both",
+    "base": 20000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each jewelry bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 18
+      }
+    ]
+  },
+  {
+    "id": "dragon",
+    "name": "Dragon Heist",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/dragon.jpg",
+    "link": "/dragonheist",
+    "approach": "both",
+    "base": 31500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 12500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Keycard used on vault",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Entering auction back room",
+        "xp": 3000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured (excl . dragon)",
+        "xp": 1000,
+        "type": "rS",
+        "max": 14
+      }
+    ]
+  },
+  {
+    "id": "dragon_loud",
+    "name": "Dragon Heist",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/dragon.jpg",
+    "link": "/dragonheist",
+    "approach": "both",
+    "base": 30000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 16000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured (excl . dragon)",
+        "xp": 1000,
+        "type": "rS",
+        "max": 14
+      }
+    ]
+  },
+  {
+    "id": "election_day1",
+    "name": "Election Day (day 1)",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/both/electionday.jpg",
+    "link": "/electionday_day1",
+    "approach": "both",
+    "base": 6000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Escape after 3 minutes",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "election_day1_loud",
+    "name": "Election Day (day 1)",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/both/electionday.jpg",
+    "link": "/electionday_day1_loud",
+    "approach": "both",
+    "base": 24000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 12000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Second hack",
+        "xp": 12000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "election_day2",
+    "name": "Election Day (day 2)",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/both/electionday.jpg",
+    "link": "/electionday_day2",
+    "approach": "both",
+    "base": 18000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Escape after 3 minutes",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Loud escape",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "election_day2_loud",
+    "name": "Election Day (day 2)",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/both/electionday.jpg",
+    "link": "/electionday_day2_loud",
+    "approach": "both",
+    "base": 18000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 18000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "election_day2c_loud",
+    "name": "Election Day (day 2c)",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/both/electionday.jpg",
+    "link": "/electionday_day2c_loud",
+    "approach": "both",
+    "base": 20000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 20000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "firestarter_day1",
+    "name": "Firestarter (day 1)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/firestarter.jpg",
+    "link": "/firestarter_day1",
+    "approach": "both",
+    "base": 16000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "No weapons were destroyed",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Secured all bags (van)",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "firestarter_day1_loud",
+    "name": "Firestarter (day 1)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/firestarter.jpg",
+    "link": "/firestarter_day1_loud",
+    "approach": "both",
+    "base": 16000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "No weapons were destroyed",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Secured all bags (van)",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "firestarter_day2",
+    "name": "Firestarter (day 2)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/firestarter.jpg",
+    "link": "/firestarter_day2",
+    "approach": "both",
+    "base": 15000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Escape after 3 minutes",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 3
+      }
+    ]
+  },
+  {
+    "id": "firestarter_day2_loud",
+    "name": "Firestarter (day 2)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/firestarter.jpg",
+    "link": "/firestarter_day2_loud",
+    "approach": "both",
+    "base": 9000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 10000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Escape within 3 minutes",
+        "xp": -4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 3
+      }
+    ]
+  },
+  {
+    "id": "fwb",
+    "name": "First World Bank",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/both/fwb.jpg",
+    "link": "/fwb",
+    "approach": "both",
+    "base": 31500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 13500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each money bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 14
+      },
+      {
+        "name": "Loud C4 escape",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "fwb_loud",
+    "name": "First World Bank",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/both/fwb.jpg",
+    "link": "/fwb",
+    "approach": "both",
+    "base": 34000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 20000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each money bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 14
+      }
+    ]
+  },
+  {
+    "id": "framingframe_day1",
+    "name": "Framing Frame (day 1)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/framingframe.jpg",
+    "link": "/framingframe_day1",
+    "approach": "both",
+    "base": 6500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each painting secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "framingframe_day1_loud",
+    "name": "Framing Frame (day 1)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/framingframe.jpg",
+    "link": "/framingframe_day1_loud",
+    "approach": "both",
+    "base": 12500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Security hack completed",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each painting secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "framingframe_day2",
+    "name": "Framing Frame (day 2)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/framingframe.jpg",
+    "link": "/framingframe_day2",
+    "approach": "both",
+    "base": 6500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each money bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "framingframe_day2_loud",
+    "name": "Framing Frame (day 2)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/framingframe.jpg",
+    "link": "/framingframe_day2_loud",
+    "approach": "both",
+    "base": 20500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 16000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each painting secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "framingframe_day3",
+    "name": "Framing Frame (day 3)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/framingframe.jpg",
+    "link": "/framingframe_day3",
+    "approach": "both",
+    "base": 19500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 11500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each gold bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 8
+      }
+    ]
+  },
+  {
+    "id": "framingframe_day3_loud",
+    "name": "Framing Frame (day 3)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/framingframe.jpg",
+    "link": "/framingframe_day3_loud",
+    "approach": "both",
+    "base": 24000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 24000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "gobank",
+    "name": "Go Bank",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/both/gobank.jpg",
+    "link": "/gobank",
+    "approach": "both",
+    "base": 15000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 10000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 12
+      },
+      {
+        "name": "Blackmailer appears",
+        "xp": -1000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Vault already opened",
+        "xp": -6000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "gobank_loud",
+    "name": "Go Bank",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/both/gobank.jpg",
+    "link": "/gobank",
+    "approach": "both",
+    "base": 18000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 12000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 12
+      },
+      {
+        "name": "Vault already opened",
+        "xp": -6000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "goat_day1",
+    "name": "Goat simulator (day 1)",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/goat.jpg",
+    "link": "/goatsimulator_day1",
+    "approach": "loud",
+    "base": 34500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 3000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Drill/saw finished",
+        "xp": 1500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Powerbox hacked",
+        "xp": 1500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each debris removed",
+        "xp": 1500,
+        "type": "rS",
+        "max": 4
+      },
+      {
+        "name": "Each goat secured",
+        "xp": 1500,
+        "type": "rS",
+        "max": 15
+      }
+    ]
+  },
+  {
+    "id": "goat_day2",
+    "name": "Goat simulator (day 2)",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/goat.jpg",
+    "link": "/goatsimulator_day2",
+    "approach": "loud",
+    "base": 43500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 21000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each goat secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 15
+      },
+      {
+        "name": "Each cage built",
+        "xp": 500,
+        "type": "rS",
+        "max": 15
+      },
+      {
+        "name": "Each cage picked up by plane",
+        "xp": 500,
+        "type": "rS",
+        "max": 15
+      }
+    ]
+  },
+  {
+    "id": "ggc",
+    "name": "Golden Grin Casino",
+    "jc": 70,
+    "img": "/pd2calc/images/maps/both/ggc.jpg",
+    "link": "/ggc",
+    "approach": "both",
+    "base": 39250,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 39250,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "ggc_loud",
+    "name": "Golden Grin Casino",
+    "jc": 70,
+    "img": "/pd2calc/images/maps/both/ggc.jpg",
+    "link": "/ggc",
+    "approach": "both",
+    "base": 59250,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 59250,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Loud entrance with no C4",
+        "xp": -1000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Loud entrance with C4",
+        "xp": -15000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Stealth beginning, loud path before using gas",
+        "xp": 16000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "green",
+    "name": "Green Bridge",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/loud/green.jpg",
+    "link": "/greenbridge",
+    "approach": "loud",
+    "base": 28000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 24000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 4
+      }
+    ]
+  },
+  {
+    "id": "heat",
+    "name": "Heat Street",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/loud/heatstreet.jpg",
+    "link": "/heatstreet",
+    "approach": "loud",
+    "base": 26000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 26000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "hells",
+    "name": "Hell's Island",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/hells.jpg",
+    "link": "/hellsisland",
+    "approach": "loud",
+    "base": 17000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 17000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "henryscock",
+    "name": "Henry's Rock",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/henryscock.jpg",
+    "link": "/henrysrock",
+    "approach": "loud",
+    "base": 56000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 16000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Archeology room path",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Biolab room path",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each laser shot (weapon room path)",
+        "xp": 4000,
+        "type": "rS",
+        "max": 2
+      },
+      {
+        "name": "Each pc hacked (computer room path)",
+        "xp": 2000,
+        "type": "rS",
+        "max": 3
+      },
+      {
+        "name": "Each artifact (not box) secured",
+        "xp": 2000,
+        "type": "rS",
+        "max": 6
+      }
+    ]
+  },
+  {
+    "id": "hostile",
+    "name": "Hostile Takeover",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/hostile.jpg",
+    "link": "/hostiletakeover",
+    "approach": "both",
+    "base": 31000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 21000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured (with neo & papers)",
+        "xp": 500,
+        "type": "rS",
+        "max": 20
+      }
+    ]
+  },
+  {
+    "id": "hotline_day1",
+    "name": "Hotline Miami (day 1)",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/loud/hotlinemiami.jpg",
+    "link": "/hotlinemiami_day1",
+    "approach": "loud",
+    "base": 45500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 26000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each meth cooked",
+        "xp": 500,
+        "type": "rS",
+        "max": 7
+      },
+      {
+        "name": "Each secured bag",
+        "xp": 1000,
+        "type": "rS",
+        "max": 16
+      }
+    ]
+  },
+  {
+    "id": "hotline_day2",
+    "name": "Hotline Miami (day 2)",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/loud/hotlinemiami.jpg",
+    "link": "/hotlinemiami_day2",
+    "approach": "loud",
+    "base": 32000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 14000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "C4 defused",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each secured bag (max 10 counts)",
+        "xp": 1000,
+        "type": "rS",
+        "max": 16
+      }
+    ]
+  },
+  {
+    "id": "hoxtonbreakout_day1",
+    "name": "Hoxton Breakout (day 1)",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/loud/hoxtonbreakout.jpg",
+    "link": "/hoxtonbreakout_day1",
+    "approach": "loud",
+    "base": 18400,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 18400,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "hoxtonbreakout_day2",
+    "name": "Hoxton Breakout (day 2)",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/loud/hoxtonbreakout.jpg",
+    "link": "/hoxtonbreakout_day2",
+    "approach": "loud",
+    "base": 38000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 34000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "No keycard used",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "hoxrev",
+    "name": "Hoxton Revenge",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/both/hoxrev.jpg",
+    "link": "/hoxtonrevenge",
+    "approach": "both",
+    "base": 24000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 16000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each evidence secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 8
+      }
+    ]
+  },
+  {
+    "id": "hoxrev_loud",
+    "name": "Hoxton Revenge",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/both/hoxrev.jpg",
+    "link": "/hoxtonrevenge",
+    "approach": "both",
+    "base": 26000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 16000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "First vault mission done stealth",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each evidence secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 8
+      }
+    ]
+  },
+  {
+    "id": "jewelry",
+    "name": "Jewelry Store",
+    "jc": 10,
+    "img": "/pd2calc/images/maps/both/jewelry.jpg",
+    "link": "/jewelrystore",
+    "approach": "both",
+    "base": 6000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Finished in more than 2 minutes",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "jewelry_loud",
+    "name": "Jewelry Store",
+    "jc": 10,
+    "img": "/pd2calc/images/maps/both/jewelry.jpg",
+    "link": "/jewelrystore",
+    "approach": "both",
+    "base": 8000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Finish after 2 minutes passed",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "labrats",
+    "name": "Lab Rats",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/default.jpg",
+    "link": "/labrats",
+    "approach": "loud",
+    "base": 3852500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 5000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Full meth cycles done (and secured)",
+        "xp": 15000,
+        "type": "rS",
+        "max": 252
+      },
+      {
+        "name": "Money & Jewelry safe event done",
+        "xp": 30000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Paintings & Coke safe event done",
+        "xp": 22500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Random items safe event done",
+        "xp": 15000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "lostintransit",
+    "name": "Lost in Transit",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/transit.jpg",
+    "link": "/lostintransit",
+    "approach": "both",
+    "base": 33750,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 25000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 250,
+        "type": "rS",
+        "max": 35
+      }
+    ]
+  },
+  {
+    "id": "mallcrasher",
+    "name": "Mallcrasher",
+    "jc": 20,
+    "img": "/pd2calc/images/maps/both/mallcrasher.jpg",
+    "link": "/mallcrasher",
+    "approach": "both",
+    "base": 6000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "meltdown",
+    "name": "Meltdown",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/meltdown.jpg",
+    "link": "/meltdown",
+    "approach": "loud",
+    "base": 32000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 20000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bonus bag secured",
+        "xp": 1500,
+        "type": "rS",
+        "max": 8
+      }
+    ]
+  },
+  {
+    "id": "midland_ranch",
+    "name": "Midland Ranch",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/midland.jpg",
+    "link": "/midland_ranch",
+    "approach": "both",
+    "base": 39000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 22000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 17
+      }
+    ]
+  },
+  {
+    "id": "midland_ranch_loud",
+    "name": "Midland Ranch",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/midland.jpg",
+    "link": "/midland_ranch",
+    "approach": "both",
+    "base": 41000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 22000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Used balloon",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 17
+      }
+    ]
+  },
+  {
+    "id": "mountainmaster",
+    "name": "Mountain master",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/mountainmaster.jpg",
+    "link": "/mountainmaster",
+    "approach": "both",
+    "base": 42500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 38000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Tea Set Secured",
+        "xp": 500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each additional gold bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 4
+      }
+    ]
+  },
+  {
+    "id": "mountainmaster_loud",
+    "name": "Mountain master",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/mountainmaster.jpg",
+    "link": "/mountainmaster",
+    "approach": "both",
+    "base": 43500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 40000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Tea Set Secured",
+        "xp": 500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Reached back room before alarm",
+        "xp": 1000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Thermite was used instead of car",
+        "xp": -2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each additional gold bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 4
+      }
+    ]
+  },
+  {
+    "id": "murky",
+    "name": "Murky Station",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/stealth/murky.jpg",
+    "link": "/murky",
+    "approach": "stealth",
+    "base": 34000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each train wagon opened with loot",
+        "xp": 2000,
+        "type": "rS",
+        "max": 4
+      },
+      {
+        "name": "Each type of equipment picked up",
+        "xp": 1000,
+        "type": "rS",
+        "max": 4
+      },
+      {
+        "name": "Each weapon bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 14
+      }
+    ]
+  },
+  {
+    "id": "nightclub",
+    "name": "Nightclub",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/nightclub.jpg",
+    "link": "/nightclub",
+    "approach": "both",
+    "base": 23000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 10000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 13
+      }
+    ]
+  },
+  {
+    "id": "nightclub_loud",
+    "name": "Nightclub",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/nightclub.jpg",
+    "link": "/nightclub",
+    "approach": "both",
+    "base": 25000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "No C4 used on safes",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 13
+      }
+    ]
+  },
+  {
+    "id": "panic",
+    "name": "Panic Room",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/panicroom.jpg",
+    "link": "/panicroom",
+    "approach": "loud",
+    "base": 30500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 25000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag of coke secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 11
+      }
+    ]
+  },
+  {
+    "id": "prison",
+    "name": "Prison Nightmare",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/default.jpg",
+    "link": "/prisonnightmare",
+    "approach": "loud",
+    "base": 439000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 14000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 850,
+        "type": "rS",
+        "max": 500
+      }
+    ]
+  },
+  {
+    "id": "rats_day1",
+    "name": "Rats (day 1)",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/loud/rats.jpg",
+    "link": "/rats_day1",
+    "approach": "loud",
+    "base": 52000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 30000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Escape with less than 3 bags cooked",
+        "xp": -18000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Escape with 7 bags cooked",
+        "xp": 40000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "rats_day2",
+    "name": "Rats (day 2)",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/loud/rats.jpg",
+    "link": "/rats_day2",
+    "approach": "loud",
+    "base": 8000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Intel was burned",
+        "xp": -2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "All meth bags secured that were given",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "rats_day3",
+    "name": "Rats (day 3)",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/loud/rats.jpg",
+    "link": "/rats_day3",
+    "approach": "loud",
+    "base": 16000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "All money bags secured",
+        "xp": 14000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "rdh_day2",
+    "name": "Reservoir Dogs Heist (day 1)",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/loud/reservoirdogs.jpg",
+    "link": "/rdh_day2",
+    "approach": "loud",
+    "base": 32500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 20000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 25
+      }
+    ]
+  },
+  {
+    "id": "rdh_day1",
+    "name": "Reservoir Dogs Heist (day 2)",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/loud/reservoirdogs.jpg",
+    "link": "/rdh_day1",
+    "approach": "loud",
+    "base": 25500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each garage opened with saw",
+        "xp": 1500,
+        "type": "rS",
+        "max": 5
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 10
+      }
+    ]
+  },
+  {
+    "id": "safehousenight",
+    "name": "Safe House Nightmare",
+    "jc": 10,
+    "img": "/pd2calc/images/maps/loud/default.jpg",
+    "link": "/shn",
+    "approach": "loud",
+    "base": 10000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 10000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "safehouseraid",
+    "name": "Safe House Raid",
+    "jc": 10,
+    "img": "/pd2calc/images/maps/loud/safehouse.jpg",
+    "link": "/shr",
+    "approach": "loud",
+    "base": 42000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 42000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "sanmartin_loud",
+    "name": "San Martín Bank",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/sanmartin.jpg",
+    "link": "/sanmartínbank",
+    "approach": "both",
+    "base": 51000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 32000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Stealth beginning (loud after picking up keychain and drilling instead of using it)",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 11
+      }
+    ]
+  },
+  {
+    "id": "santas",
+    "name": "Santa's Workshop",
+    "jc": 10,
+    "img": "/pd2calc/images/maps/loud/santasworkshop.jpg",
+    "link": "/santasworkshop",
+    "approach": "loud",
+    "base": 10028000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Safe event completed",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Money/diamonds from safe",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Toast from safe",
+        "xp": 12000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each finished and secured present",
+        "xp": 2000,
+        "type": "rS",
+        "max": 5000
+      }
+    ]
+  },
+  {
+    "id": "scarface",
+    "name": "Scarface Mansion",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/scarface.jpg",
+    "link": "/scarfacemansion",
+    "approach": "both",
+    "base": 30000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 21000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 18
+      }
+    ]
+  },
+  {
+    "id": "scarface_loud",
+    "name": "Scarface Mansion",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/scarface.jpg",
+    "link": "/scarfacemansion",
+    "approach": "both",
+    "base": 32000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 24000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 16
+      }
+    ]
+  },
+  {
+    "id": "shacklethorne",
+    "name": "Shacklethorne Auction",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/shacklethorne.jpg",
+    "link": "/shacklethorne",
+    "approach": "both",
+    "base": 53000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 15000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 38
+      }
+    ]
+  },
+  {
+    "id": "shacklethorne_loud",
+    "name": "Shacklethorne Auction",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/shacklethorne.jpg",
+    "link": "/shacklethorne",
+    "approach": "both",
+    "base": 26000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 26000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "shadow",
+    "name": "Shadow Raid",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/stealth/shadowraid.jpg",
+    "link": "/shadowraid",
+    "approach": "stealth",
+    "base": 22000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured (up to 16)",
+        "xp": 500,
+        "type": "rS",
+        "max": 16
+      },
+      {
+        "name": "Whole armor secured",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Stealth escape",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "slaughterhouse",
+    "name": "Slaughterhouse",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/slaughterhouse.jpg",
+    "link": "/slaughterhouse",
+    "approach": "loud",
+    "base": 32000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 32000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "stealingxmas",
+    "name": "Stealing Xmas",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/stealingxmas.jpg",
+    "link": "/stealingxmas",
+    "approach": "loud",
+    "base": 31900,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Collecting wine",
+        "xp": 800,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Collecting necklace",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Collecting VR set",
+        "xp": 6500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Collecting toy (in box)",
+        "xp": 800,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Collecting toy (in bag)",
+        "xp": 2800,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Collecting shoes (in cage)",
+        "xp": 1500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Collecting shoes (in room)",
+        "xp": 4500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each money/jewelry bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "thealessoheist",
+    "name": "The Alesso Heist",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/both/thealesso.jpg",
+    "link": "/thealessoheist",
+    "approach": "both",
+    "base": 52000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 9000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each 2 x C4 charges picked",
+        "xp": 2000,
+        "type": "rS",
+        "max": 5
+      },
+      {
+        "name": "Each 3 x C4 charges set",
+        "xp": 2000,
+        "type": "rS",
+        "max": 3
+      },
+      {
+        "name": "Each money bag secured",
+        "xp": 1500,
+        "type": "rS",
+        "max": 18
+      }
+    ]
+  },
+  {
+    "id": "thealessoheist_loud",
+    "name": "The Alesso Heist",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/both/thealesso.jpg",
+    "link": "/thealessoheist",
+    "approach": "both",
+    "base": 51600,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 9000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Security hack finished",
+        "xp": 10000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each 2 x C4 charges picked",
+        "xp": 1000,
+        "type": "rS",
+        "max": 5
+      },
+      {
+        "name": "Each 3 x C4 charges set",
+        "xp": 2000,
+        "type": "rS",
+        "max": 3
+      },
+      {
+        "name": "Each money bag secured",
+        "xp": 1200,
+        "type": "rS",
+        "max": 18
+      }
+    ]
+  },
+  {
+    "id": "thebigbank",
+    "name": "The Big Bank",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/both/thebigbank.jpg",
+    "link": "/thebigbank",
+    "approach": "both",
+    "base": 78000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 30000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Bus stop/C4 escape",
+        "xp": 10000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Pack any loot before the alarm goes off",
+        "xp": 10000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 28
+      }
+    ]
+  },
+  {
+    "id": "thebigbank_loud",
+    "name": "The Big Bank",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/both/thebigbank.jpg",
+    "link": "/thebigbank",
+    "approach": "both",
+    "base": 68000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 30000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Bus stop escape",
+        "xp": 10000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 28
+      }
+    ]
+  },
+  {
+    "id": "thebikerheist_day1",
+    "name": "The Biker Heist (day 1)",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/bikers.jpg",
+    "link": "/tbh_day1",
+    "approach": "loud",
+    "base": 44000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 14500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Collecting soda for Mike",
+        "xp": 1000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Finding tools",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Finding gas & pipes",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Finding engine",
+        "xp": 3000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Helping Mike in garage",
+        "xp": 3000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Finding seat",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Finding skull",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "thebikerheist_day2",
+    "name": "The Biker Heist (day 2)",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/bikers.jpg",
+    "link": "/tbh_day2",
+    "approach": "loud",
+    "base": 14500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 10000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "thebombdock",
+    "name": "The Bomb: Dockyard",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/both/thebombdockyard.jpg",
+    "link": "/thebombdockyard",
+    "approach": "both",
+    "base": 23000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 16000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 14
+      }
+    ]
+  },
+  {
+    "id": "thebombdock_loud",
+    "name": "The Bomb: Dockyard",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/both/thebombdockyard.jpg",
+    "link": "/thebombdockyard",
+    "approach": "both",
+    "base": 31000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 24000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 14
+      }
+    ]
+  },
+  {
+    "id": "thebombforest",
+    "name": "The Bomb: Forest",
+    "jc": 60,
+    "img": "/pd2calc/images/maps/loud/transportforest.jpg",
+    "link": "/thebombforest",
+    "approach": "loud",
+    "base": 44000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 32000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1500,
+        "type": "rS",
+        "max": 8
+      }
+    ]
+  },
+  {
+    "id": "thediamond",
+    "name": "The Diamond",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/thediamond.jpg",
+    "link": "/thediamond",
+    "approach": "both",
+    "base": 32000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 17000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 15
+      }
+    ]
+  },
+  {
+    "id": "thediamond_loud",
+    "name": "The Diamond",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/both/thediamond.jpg",
+    "link": "/thediamond",
+    "approach": "both",
+    "base": 43000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 24000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Diamond picked without gas",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 15
+      }
+    ]
+  },
+  {
+    "id": "theukrainianprisoner",
+    "name": "The Ukrainian Prisoner",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/theukrainianprisoner.jpg",
+    "link": "/tup",
+    "approach": "both",
+    "base": 47500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 35500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Keycard scenario",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Chinese code scenario",
+        "xp": 500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 11
+      }
+    ]
+  },
+  {
+    "id": "theukrainianprisoner_loud",
+    "name": "The Ukrainian Prisoner",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/theukrainianprisoner.jpg",
+    "link": "/tup",
+    "approach": "both",
+    "base": 45500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 39000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Keycard scenario instead of code",
+        "xp": -1000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Used pad to pick up container",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 500,
+        "type": "rS",
+        "max": 11
+      }
+    ]
+  },
+  {
+    "id": "thewhitehouse",
+    "name": "The White House",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/thewhite.jpg",
+    "link": "/thewhitehouse",
+    "approach": "both",
+    "base": 17000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 31000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Secret ending",
+        "xp": -14000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "thewhitehouse_loud",
+    "name": "The White House",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/both/thewhite.jpg",
+    "link": "/thewhitehouse",
+    "approach": "both",
+    "base": 25000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 40000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Secret ending",
+        "xp": -15000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "yacht",
+    "name": "The Yacht Heist",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/stealth/theyacht.jpg",
+    "link": "/theyachtheist",
+    "approach": "stealth",
+    "base": 16500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 12000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Secured bags (artif.)",
+        "xp": 500,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "transport",
+    "name": "Transport",
+    "jc": 20,
+    "img": "/pd2calc/images/maps/loud/transport.jpg",
+    "link": "/tth",
+    "approach": "both",
+    "base": 28000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 12000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 1000,
+        "type": "rS",
+        "max": 16
+      }
+    ]
+  },
+  {
+    "id": "train",
+    "name": "Transport: Train Heist",
+    "jc": 70,
+    "img": "/pd2calc/images/maps/both/train.jpg",
+    "link": "/tth",
+    "approach": "both",
+    "base": 36000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 11000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each vault opened",
+        "xp": 3000,
+        "type": "rS",
+        "max": 3
+      },
+      {
+        "name": "Each ammo bag secured",
+        "xp": 800,
+        "type": "rS",
+        "max": 20
+      }
+    ]
+  },
+  {
+    "id": "ukrainian",
+    "name": "Ukrainian Job",
+    "jc": 20,
+    "img": "/pd2calc/images/maps/both/ukrainian.jpg",
+    "link": "/ukrainianjob",
+    "approach": "both",
+    "base": 10000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 4000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Finished in more than 2 minutes",
+        "xp": 6000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "undercover",
+    "name": "Undercover",
+    "jc": 30,
+    "img": "/pd2calc/images/maps/loud/undercover.jpg",
+    "link": "/undercover",
+    "approach": "loud",
+    "base": 28500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 24500,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Car lifted with confirmed server",
+        "xp": 1000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Hack was interrupted",
+        "xp": 1000,
+        "type": "rS",
+        "max": 3
+      }
+    ]
+  },
+  {
+    "id": "watchdogs_day1",
+    "name": "Watchdogs (day 1)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/loud/watchdogs.jpg",
+    "link": "/watchdogs_day1",
+    "approach": "loud",
+    "base": 16000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 12000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "All bags secured",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Chopper escape",
+        "xp": 2000,
+        "type": "rCB",
+        "max": null
+      }
+    ]
+  },
+  {
+    "id": "watchdogs_day2",
+    "name": "Watchdogs (day 2)",
+    "jc": 50,
+    "img": "/pd2calc/images/maps/loud/watchdogs.jpg",
+    "link": "/watchdogs_day2",
+    "approach": "loud",
+    "base": 25500,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 12000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured (after third)",
+        "xp": 1500,
+        "type": "rS",
+        "max": 9
+      }
+    ]
+  },
+  {
+    "id": "whitexmas",
+    "name": "White Xmas",
+    "jc": 40,
+    "img": "/pd2calc/images/maps/loud/whitexmas.jpg",
+    "link": "/whitexmas",
+    "approach": "loud",
+    "base": 1008000,
+    "requirements": [
+      {
+        "name": "Default (completion)",
+        "xp": 8000,
+        "type": "rCB",
+        "max": null
+      },
+      {
+        "name": "Each bag secured",
+        "xp": 2000,
+        "type": "rS",
+        "max": 500
+      }
+    ]
+  }
+]
